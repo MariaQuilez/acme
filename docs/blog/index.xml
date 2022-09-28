@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on ACME Servicios Tecno</title>
+    <link>acme/blog/</link>
+    <description>Recent content in Blogs on ACME Servicios Tecno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster><atom:link href="acme/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guias de Viaje</title>
+      <link>acme/blog/entradatres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/blog/entradatres/</guid>
+      <description>El sitio de las chicas viajeras locas por recorrer los rincones más chulos de cada destino están de suerte con estas guías de viaje. Son el complemento que necesitas para ser la protagonista de tu viaje. Con estas guías vas a probar lo bien que sienta dormir bien, comer mejor y hacer planes por todos los sitios adorables que hay por el mundo. Además de sentir el placer de una sonrisa después de recorrer los lugares con los que has soñado tantas veces.</description>
+    </item>
+    
+    <item>
+      <title>Qué ver</title>
+      <link>acme/blog/entradados/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/blog/entradados/</guid>
+      <description>En esta ruta por el norte de Bretaña ha habido muchos momentos especiales. La magia la han puesto los pueblos medievales que te dejan sin palabras y consiguen poner una sonrisa en tu cara. La costa con sus tramos de granito rosa y, sus mareas subiendo y bajando, o la costa verde que te transporta a la época de La Belle Époque te conquista desde el primer momento. Los días con bruma o con sol siempre consiguen cambiar tu estado de ánimo, pasando de la alegría a la melancolía incluso en un solo día.</description>
+    </item>
+    
+    <item>
+      <title>Tips Viajeros</title>
+      <link>acme/blog/entradauno/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>acme/blog/entradauno/</guid>
+      <description>La tecnología nos permite viajar de una forma más sencilla. Lo tengo muy claro. Poder llevar mis billetes de avión en el móvil es una gozada. Pero es que además hay un montón de aparatos que te permiten disfrutar a tope de tus vacaciones. ¿Qué debes llevar en tu viaje? Neceser, con todos los productos de higiene y de belleza; un completo botiquín de viaje, con pastillas para el mareo, paracetamol, vendas, tiritas…; ropa cómoda, que no tengas que planchar y ocupe poco espacio; y, por supuesto, tus artículos de tecnología.</description>
+    </item>
+    
+  </channel>
+</rss>

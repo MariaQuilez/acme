@@ -2,23 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/acme/</loc>
+    <loc>acme/</loc>
     <lastmod>2022-09-21T09:45:50+02:00</lastmod>
   </url><url>
-    <loc>/acme/viajes/paris/</loc>
+    <loc>acme/viajes/</loc>
     <lastmod>2022-09-21T09:45:50+02:00</lastmod>
   </url><url>
-    <loc>/acme/viajes/</loc>
+    <loc>acme/viajes/paris/</loc>
     <lastmod>2022-09-21T09:45:50+02:00</lastmod>
   </url><url>
-    <loc>/acme/viajes/pirineo/</loc>
+    <loc>acme/viajes/pirineo/</loc>
     <lastmod>2022-09-21T08:55:04+02:00</lastmod>
   </url><url>
-    <loc>/acme/curriculum/</loc>
+    <loc>acme/curriculum/</loc>
     <lastmod>2022-09-21T08:53:58+02:00</lastmod>
   </url><url>
-    <loc>/acme/categories/</loc>
+    <loc>acme/acercade/</loc>
   </url><url>
-    <loc>/acme/tags/</loc>
+    <loc>acme/blog/</loc>
+  </url><url>
+    <loc>acme/viajes/cancun/</loc>
+  </url><url>
+    <loc>acme/categories/</loc>
+  </url><url>
+    <loc>acme/contacto/</loc>
+  </url><url>
+    <loc>acme/blog/entradatres/</loc>
+  </url><url>
+    <loc>acme/blog/entradados/</loc>
+  </url><url>
+    <loc>acme/tags/</loc>
+  </url><url>
+    <loc>acme/blog/entradauno/</loc>
   </url>
 </urlset>
