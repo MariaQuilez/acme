@@ -1,4 +1,4 @@
-baseURL: "acme"
+baseURL: "https://mariaquilez.github.io/acme/"
 languageCode: es-es
 title: ACME Servicios Tecno
 theme: basico

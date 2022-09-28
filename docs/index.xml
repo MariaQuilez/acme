@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ACME corp. on ACME Servicios Tecno</title>
-    <link>acme/</link>
+    <link>https://mariaquilez.github.io/acme/</link>
     <description>Recent content in ACME corp. on ACME Servicios Tecno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
-    <lastBuildDate>Wed, 21 Sep 2022 09:45:50 +0200</lastBuildDate><atom:link href="acme/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Sep 2022 09:45:50 +0200</lastBuildDate><atom:link href="https://mariaquilez.github.io/acme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Paris</title>
-      <link>acme/viajes/paris/</link>
+      <link>https://mariaquilez.github.io/acme/viajes/paris/</link>
       <pubDate>Wed, 21 Sep 2022 09:45:50 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>acme/viajes/paris/</guid>
+      <guid>https://mariaquilez.github.io/acme/viajes/paris/</guid>
       <description>Mi segundo viaje París, la capital de Francia, es una importante ciudad europea y un centro mundial del arte, la moda, la gastronomía y la cultura. Su paisaje urbano del siglo XIX está entrecruzado por amplios bulevares y el río Sena.</description>
     </item>
     
     <item>
       <title>Pirineo</title>
-      <link>acme/viajes/pirineo/</link>
+      <link>https://mariaquilez.github.io/acme/viajes/pirineo/</link>
       <pubDate>Wed, 21 Sep 2022 08:55:04 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>acme/viajes/pirineo/</guid>
+      <guid>https://mariaquilez.github.io/acme/viajes/pirineo/</guid>
       <description>Mi viaje Soy de Madrid y más castiza que el chotis. Pero tengo muy claro que me gustaría retirarme en el Pirineo. Y es que tiene todo lo que necesito: buena gastronomía, paisajes de infarto, rutas de senderismo para todos los gustos y niveles, pueblos preciosos, actividades deportivas tanto en invierno como en verano, buena gente… Por eso, cuando alguien me pregunta qué hacer en el Pirineo aragonés siempre respondo lo mismo: depende de lo que busques y del plan que lleves.</description>
     </item>
     
     <item>
       <title>Curriculum</title>
-      <link>acme/curriculum/</link>
+      <link>https://mariaquilez.github.io/acme/curriculum/</link>
       <pubDate>Wed, 21 Sep 2022 08:53:58 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>acme/curriculum/</guid>
+      <guid>https://mariaquilez.github.io/acme/curriculum/</guid>
       <description>Mi curriculum Mi nombre es Maria, soy alumna</description>
     </item>
     
     <item>
       <title>Acerca de</title>
-      <link>acme/acercade/</link>
+      <link>https://mariaquilez.github.io/acme/acercade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>acme/acercade/</guid>
+      <guid>https://mariaquilez.github.io/acme/acercade/</guid>
       <description>ACERCA DE ACME CORPORATION La Corporación Acme es una empresa ficticia creada para un proyecto de prueba. La primera aparición de la corporación Acme fue durante la semana del 19 de Septiembre 2022. Esta corporación se encuentra únicamente de forma online. Acme Corporation es el fabricante líder mundial de formas digitales. Desde cuadrados y círculos hasta triángulos y hexágonos, lo tenemos todo. Explore nuestra colección de varias formas con diferentes grosores y estilos de línea.</description>
     </item>
     
     <item>
       <title>Cancún</title>
-      <link>acme/viajes/cancun/</link>
+      <link>https://mariaquilez.github.io/acme/viajes/cancun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>acme/viajes/cancun/</guid>
+      <guid>https://mariaquilez.github.io/acme/viajes/cancun/</guid>
       <description>Mi tercer viaje Cancún es una ciudad de México ubicada en la península de Yucatán que limita con el mar Caribe y que es conocida por sus playas, los numerosos centros turísticos y la vida nocturna. Se compone de 2 áreas distintas: el área del centro más tradicional y la Zona Hotelera, la franja costera con hoteles altos, clubes nocturnos, tiendas y restaurantes. Cancún también es un destino popular entre estudiantes durante el período de vacaciones universitarias en la primavera.</description>
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>acme/contacto/</link>
+      <link>https://mariaquilez.github.io/acme/contacto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>acme/contacto/</guid>
+      <guid>https://mariaquilez.github.io/acme/contacto/</guid>
       <description>CONTÁCTENOS Compras para empresas Si tienes una empresa o eres un usuario profesional, visita el Acme Store para Empresas o llama al 900 812 683. El horario de atención es de lunes a viernes de 09:00 a 20:00. El Acme Store para Empresas ofrece una gran variedad de servicios para negocios y opciones de financiación, además de un programa de renovación y atención comercial para desarrolladores.
 Compras para el sector educativo Si eres estudiante, profesor o trabajas en el sector educativo, visita el Acme Store para Educación o llama al 900 150 503.</description>
     </item>
     
     <item>
       <title>Guias de Viaje</title>
-      <link>acme/blog/entradatres/</link>
+      <link>https://mariaquilez.github.io/acme/blog/entradatres/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>acme/blog/entradatres/</guid>
+      <guid>https://mariaquilez.github.io/acme/blog/entradatres/</guid>
       <description>El sitio de las chicas viajeras locas por recorrer los rincones más chulos de cada destino están de suerte con estas guías de viaje. Son el complemento que necesitas para ser la protagonista de tu viaje. Con estas guías vas a probar lo bien que sienta dormir bien, comer mejor y hacer planes por todos los sitios adorables que hay por el mundo. Además de sentir el placer de una sonrisa después de recorrer los lugares con los que has soñado tantas veces.</description>
     </item>
     
     <item>
       <title>Qué ver</title>
-      <link>acme/blog/entradados/</link>
+      <link>https://mariaquilez.github.io/acme/blog/entradados/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>acme/blog/entradados/</guid>
+      <guid>https://mariaquilez.github.io/acme/blog/entradados/</guid>
       <description>En esta ruta por el norte de Bretaña ha habido muchos momentos especiales. La magia la han puesto los pueblos medievales que te dejan sin palabras y consiguen poner una sonrisa en tu cara. La costa con sus tramos de granito rosa y, sus mareas subiendo y bajando, o la costa verde que te transporta a la época de La Belle Époque te conquista desde el primer momento. Los días con bruma o con sol siempre consiguen cambiar tu estado de ánimo, pasando de la alegría a la melancolía incluso en un solo día.</description>
     </item>
     
     <item>
       <title>Tips Viajeros</title>
-      <link>acme/blog/entradauno/</link>
+      <link>https://mariaquilez.github.io/acme/blog/entradauno/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>acme/blog/entradauno/</guid>
+      <guid>https://mariaquilez.github.io/acme/blog/entradauno/</guid>
       <description>La tecnología nos permite viajar de una forma más sencilla. Lo tengo muy claro. Poder llevar mis billetes de avión en el móvil es una gozada. Pero es que además hay un montón de aparatos que te permiten disfrutar a tope de tus vacaciones. ¿Qué debes llevar en tu viaje? Neceser, con todos los productos de higiene y de belleza; un completo botiquín de viaje, con pastillas para el mareo, paracetamol, vendas, tiritas…; ropa cómoda, que no tengas que planchar y ocupe poco espacio; y, por supuesto, tus artículos de tecnología.</description>
     </item>
     
