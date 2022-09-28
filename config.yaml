@@ -1,7 +1,7 @@
-baseURL: /acme
+baseURL: "acme"
 languageCode: es-es
 title: ACME Servicios Tecno
-theme: Eclectic
+theme: basico
 author: 
   facebook: "https://facebook.com/example" 
   twitter: "https://twitter.com/example" 
@@ -19,7 +19,7 @@ menu:
       weight: 50
     - identifier: about 
       name: Acerca de 
-      url: /about 
+      url: /acercade 
       weight: 100 
     - identifier: contact
       name: Contacto 
@@ -28,7 +28,11 @@ menu:
     - identifier: Viajes
       name: Viajes 
       url: /viajes 
-      weight: 25 
+      weight: 20 
+    - identifier: Blog
+      name: Blog 
+      url: /blog 
+      weight: 300
 params: 
   colorPickerEnabled: true
   color: "#4f46e5"
