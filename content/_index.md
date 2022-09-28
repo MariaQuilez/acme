@@ -6,6 +6,6 @@ draft: false
 ---
 ## Web de mi página
 
-Bla bla bla 
+ 
 
-![cpi](https://cpilosenlaces.com/wp-content/uploads/2014/11/logo_cpifp-300x116.png)
+![cpi](https://encolombia.com/wp-content/uploads/2021/12/Que-es-paisaje.jpg)
