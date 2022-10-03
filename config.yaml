@@ -33,6 +33,14 @@ menu:
       name: Blog 
       url: /blog 
       weight: 300
+    - identifier: Television
+      name: Television 
+      url: /television/television
+      weight: 400
+    - identifier: Pilares
+      name: pilares 
+      url: /pilares/pilares
+      weight: 500
 params: 
   colorPickerEnabled: true
   color: "#4f46e5"
