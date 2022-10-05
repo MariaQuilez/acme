@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peliculas on ACME Servicios Tecno</title>
+    <link>https://mariaquilez.github.io/acme/peliculas/</link>
+    <description>Recent content in Peliculas on ACME Servicios Tecno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Thu, 29 Sep 2022 12:16:19 +0200</lastBuildDate><atom:link href="https://mariaquilez.github.io/acme/peliculas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Peliculas</title>
+      <link>https://mariaquilez.github.io/acme/peliculas/peliculas/</link>
+      <pubDate>Thu, 29 Sep 2022 12:16:19 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://mariaquilez.github.io/acme/peliculas/peliculas/</guid>
+      <description>Top 250 peliculas mejor valoradas Datos de imb.com</description>
+    </item>
+    
+  </channel>
+</rss>
