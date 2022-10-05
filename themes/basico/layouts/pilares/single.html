@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div class="container">
+    <h1 class="titulo">{{ .Title }}</h1>
+    {{ .Content }}
+
+    <h2>Pilares 2022</h2>
+    <ul class="list-group">
+        {{ range .Site.Data.pilares }}
+        <li class="list-group-item">{{ .title }}</li>
+
+      
+        {{ end }}
+    </ul>
+
+
+</div>
+{{ end }}

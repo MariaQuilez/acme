@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="container">
+    <h1 class="titulo">{{ .Title }}</h1>
+    {{ .Content }}
+
+
+
+{{ $contributors := getJSON "https://api.github.com/repos/gohugoio/hugo/contributors" }}
+{{ range $contributors }}
+<a href="{{ .url }}">
+    <img src="{{ .avatar_url }}" alt="{{ .login }}" width="50">
+</a>
+{{ end }}
+
+{{ end }}

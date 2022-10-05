@@ -1,0 +1,8 @@
+{{ define "main" }}
+
+
+<h1 style="color: blueviolet">{{ .Title }}</h1>
+<h3 style="color:blue">{{ .Params.subtitulo }}</h3>
+{{ .Content }}
+<h2>Saludos desde {{ .Params.ciudad }}</h2>
+{{ end }}

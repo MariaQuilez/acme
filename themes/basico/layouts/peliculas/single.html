@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="container">
+    <h1 class="titulo">{{ .Title }}</h1>
+    {{ .Content }}
+
+
+    <ul class="list-group">
+        {{ range .Site.Data.datos_pelis }}
+        <li class="list-group-item">
+            <img src="{{ .img }}" alt="{{ .titulo }}"> {{ .ranking }}
+            <a href="https://www.imdb.com/{{ .url }}"> {{ .titulo }}
+            </a>
+            {{ .year }}
+
+            {{ end }}
+
+        </li>
+    </ul>
+
+
+</div>
+{{ end }}

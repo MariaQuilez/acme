@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="container">
+    <h1 class="titulo">{{ .Title }}</h1>
+    {{ .Content }}
+
+   <h2>Hola soy tu tv favorita</h2>
+    <ul class="list-group">
+        {{ range .Site.Data.tv }}
+        {{ if eq .name "Deportivos" }}
+        <li class="list-group-item">{{ .name }}</li>
+
+        {{ range.channels }}
+
+        <a href="{{ .web }}">
+            <img src="{{ .logo }}" alt="{{ .name }}"></a>
+
+        {{ end }}
+
+
+        {{ end }}
+        {{ end }}
+    </ul>
+
+</div>
+{{ end }}
