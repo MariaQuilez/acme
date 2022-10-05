@@ -8,7 +8,52 @@
     <language>es-es</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
-    <lastBuildDate>Wed, 21 Sep 2022 09:45:50 +0200</lastBuildDate><atom:link href="https://mariaquilez.github.io/acme/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Sep 2022 12:16:19 +0200</lastBuildDate><atom:link href="https://mariaquilez.github.io/acme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Peliculas</title>
+      <link>https://mariaquilez.github.io/acme/peliculas/peliculas/</link>
+      <pubDate>Thu, 29 Sep 2022 12:16:19 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://mariaquilez.github.io/acme/peliculas/peliculas/</guid>
+      <description>Top 250 peliculas mejor valoradas Datos de imb.com</description>
+    </item>
+    
+    <item>
+      <title>Televisión</title>
+      <link>https://mariaquilez.github.io/acme/television/</link>
+      <pubDate>Thu, 29 Sep 2022 12:16:19 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://mariaquilez.github.io/acme/television/</guid>
+      <description>Canales de televisión en internet bla bla bla&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Televisión</title>
+      <link>https://mariaquilez.github.io/acme/television/television/</link>
+      <pubDate>Thu, 29 Sep 2022 12:16:19 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://mariaquilez.github.io/acme/television/television/</guid>
+      <description>Canales de televisión en internet bla bla bla&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Datos desde API</title>
+      <link>https://mariaquilez.github.io/acme/datos_remotos/datos_remotos/</link>
+      <pubDate>Thu, 29 Sep 2022 12:16:08 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://mariaquilez.github.io/acme/datos_remotos/datos_remotos/</guid>
+      <description>Esta página debería cargar datos remotos desde una API de GitHub </description>
+    </item>
+    
+    <item>
+      <title>Instituto desde csv</title>
+      <link>https://mariaquilez.github.io/acme/centros/centros/</link>
+      <pubDate>Thu, 29 Sep 2022 12:16:08 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://mariaquilez.github.io/acme/centros/centros/</guid>
+      <description>Esta página debería cargar datos sobre institutos </description>
+    </item>
+    
     <item>
       <title>Paris</title>
       <link>https://mariaquilez.github.io/acme/viajes/paris/</link>
@@ -71,6 +116,15 @@ Compras para el sector educativo Si eres estudiante, profesor o trabajas en el s
       <author>contact@example.org (Acme Corporation)</author>
       <guid>https://mariaquilez.github.io/acme/blog/entradatres/</guid>
       <description>El sitio de las chicas viajeras locas por recorrer los rincones más chulos de cada destino están de suerte con estas guías de viaje. Son el complemento que necesitas para ser la protagonista de tu viaje. Con estas guías vas a probar lo bien que sienta dormir bien, comer mejor y hacer planes por todos los sitios adorables que hay por el mundo. Además de sentir el placer de una sonrisa después de recorrer los lugares con los que has soñado tantas veces.</description>
+    </item>
+    
+    <item>
+      <title>Pilares</title>
+      <link>https://mariaquilez.github.io/acme/pilares/pilares/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://mariaquilez.github.io/acme/pilares/pilares/</guid>
+      <description>Pilares Fiestas del Pilar</description>
     </item>
     
     <item>

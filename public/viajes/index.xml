@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mis super viajes on ACME Servicios Tecno</title>
+    <link>https://mariaquilez.github.io/acme/viajes/</link>
+    <description>Recent content in Mis super viajes on ACME Servicios Tecno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Wed, 21 Sep 2022 09:45:50 +0200</lastBuildDate><atom:link href="https://mariaquilez.github.io/acme/viajes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paris</title>
+      <link>https://mariaquilez.github.io/acme/viajes/paris/</link>
+      <pubDate>Wed, 21 Sep 2022 09:45:50 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://mariaquilez.github.io/acme/viajes/paris/</guid>
+      <description>Mi segundo viaje París, la capital de Francia, es una importante ciudad europea y un centro mundial del arte, la moda, la gastronomía y la cultura. Su paisaje urbano del siglo XIX está entrecruzado por amplios bulevares y el río Sena.</description>
+    </item>
+    
+    <item>
+      <title>Pirineo</title>
+      <link>https://mariaquilez.github.io/acme/viajes/pirineo/</link>
+      <pubDate>Wed, 21 Sep 2022 08:55:04 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://mariaquilez.github.io/acme/viajes/pirineo/</guid>
+      <description>Mi viaje Soy de Madrid y más castiza que el chotis. Pero tengo muy claro que me gustaría retirarme en el Pirineo. Y es que tiene todo lo que necesito: buena gastronomía, paisajes de infarto, rutas de senderismo para todos los gustos y niveles, pueblos preciosos, actividades deportivas tanto en invierno como en verano, buena gente… Por eso, cuando alguien me pregunta qué hacer en el Pirineo aragonés siempre respondo lo mismo: depende de lo que busques y del plan que lleves.</description>
+    </item>
+    
+    <item>
+      <title>Cancún</title>
+      <link>https://mariaquilez.github.io/acme/viajes/cancun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://mariaquilez.github.io/acme/viajes/cancun/</guid>
+      <description>Mi tercer viaje Cancún es una ciudad de México ubicada en la península de Yucatán que limita con el mar Caribe y que es conocida por sus playas, los numerosos centros turísticos y la vida nocturna. Se compone de 2 áreas distintas: el área del centro más tradicional y la Zona Hotelera, la franja costera con hoteles altos, clubes nocturnos, tiendas y restaurantes. Cancún también es un destino popular entre estudiantes durante el período de vacaciones universitarias en la primavera.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -41,6 +41,18 @@ menu:
       name: pilares 
       url: /pilares/pilares
       weight: 500
+    - identifier: Peliculas
+      name: peliculas 
+      url: /peliculas/peliculas
+      weight: 600
+    - identifier: datos
+      name: Datos 
+      url: /datos_remotos/datos_remotos 
+      weight: 700
+    - identifier: institutos
+      name: Institutos 
+      url: /centros/centros 
+      weight: 800
 params: 
   colorPickerEnabled: true
   color: "#4f46e5"
